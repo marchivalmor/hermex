@@ -1,0 +1,12 @@
+node_modules
+.env
+.env.local
+dist
+.next
+
+# segredos / credenciais locais
+token github/
+*.tsbuildinfo
+
+# config local do Claude Code
+.claude/settings.local.json

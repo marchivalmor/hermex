@@ -1,0 +1,12 @@
+packages:
+  - "apps/*"
+
+allowBuilds:
+  sharp: true
+  unrs-resolver: true
+  "@prisma/engines": true
+  prisma: true
+  "@nestjs/core": true
+  "@apollo/protobufjs": true
+  esbuild: true
+  workerd: false
